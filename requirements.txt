@@ -1,0 +1,10 @@
+gradio
+langchain
+langchain-community
+langchain-core
+langchain-google-genai
+python-dotenv
+langchain-huggingface
+pypdf
+faiss-cpu
+-e .
