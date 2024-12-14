@@ -22,7 +22,7 @@ To run the project, you will need:
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone (https://github.com/BriceZemba/Retrieval-Augmented-Generation-for-Trading-research-paper.git)
    ```
 2. Navigate to the project directory:
    ```bash
@@ -37,7 +37,7 @@ To run the project, you will need:
 1. Ensure all prerequisites are installed.
 2. Run the main script:
    ```bash
-   python main.py
+   python app.py
    ```
 
 ## File Contents
